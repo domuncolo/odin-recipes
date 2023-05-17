@@ -3,6 +3,6 @@ In this case I learned how to create text and HTML Text Formatting, hiperlink an
 
 =================
 
-I will add some recipies for Costa Rica tipicall dishes, how o preper them and good images for the delicious dishes we can share with teh world.
+I will add some recipies for Costa Rica tipical dishes, how o preper them and good images for the delicious dishes we can share with teh world.
 
 Enjoy it.
